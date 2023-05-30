@@ -15,8 +15,10 @@ This tutorial demonstrates how files can be shared across a domain through AD se
 
 
 <h2>Deployment and Configuration Steps</h2>
-
+<p><img src="https://i.imgur.com/D91r7BN.png" height="100%" width="100%" alt="diagram"/></p>
 <p>Let's create a file we want to share on the domain controller's machine across the homelab.com domain to Client1's Windows 10 machine.</p>
+
+
 <p><img src="https://i.imgur.com/S55ABgJ.png" height="50%" width="50%" alt="file and text creation"/></p>
 
 <p>Let's share this file with a security group to make this lab more realistic at the corporate level. We can do so by navigating to the Server Manager's Active Directory Users and Computers under tools. We will create an Organizational Unit (OU) titled Security Group. In the security group OU we will create the Accounting Group. Inside the group properties, we will add ctioukalov, a user in the domain, into the group.</p>        
