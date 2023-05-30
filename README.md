@@ -26,7 +26,7 @@ This tutorial demonstrates how files can be shared across a domain through AD se
    <img src="https://i.imgur.com/a1HDID4.png" height="29%" width="29%" alt="adding ctioukalov"/>
 </p>
 
-<p>Now, let's right click on the Accounting folder on the desktop and click on properties. We will select the sharing tab on the top and click on share.... Now, we will search for the Accounting Group and enable read permissions. Note the network path in the Accounting folder properties in the screenshot above: \\DCHOMELAB\. We will refer to this later in the lab.</p>
+<p>Now, let's right click on the Accounting folder on the desktop and click on properties. We will select the sharing tab on the top and click on share.... Now, we will search for the Accounting Group and enable read permissions. Note the network path in the Accounting folder properties: \\DCHOMELAB\. We will refer to this later in the lab.</p>
 <p><img src="https://i.imgur.com/IqjEGaI.png" height="49%" width="49%" alt="1"/>
    <img src="https://i.imgur.com/XsSBTcK.png" height="49%" width="49%" alt="2"/>
 </p>
